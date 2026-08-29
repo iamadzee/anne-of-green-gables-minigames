@@ -1,0 +1,44 @@
+body {
+    background-color:  black;
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+a {
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    color: blue ;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: black;
+    padding: 10px 20px;
+    margin: 20px auto;
+    width: 130px;
+}
+.title {
+    font-family: "Playfair Display", "Garamond", serif;
+    font-style: italic;
+    color: #98FF98;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+}
+.subtitle {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: "Cabin", sans-serif; 
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #E5A93B; 
+}
+.credits {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: "Cabin", sans-serif; 
+    color: red;
+}
