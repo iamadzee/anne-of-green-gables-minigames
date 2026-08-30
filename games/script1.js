@@ -2,8 +2,8 @@ let antiCheatGuard = null;
 
 const answers = {
     1: 'Shuhrah',
-    2: 'Anne',
-    3: 'Diana'
+    2: 'Shuhrah',
+    3: 'adzee',
 };
 
 function check(num = 1) {
